@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AgreeDirectives" xml:space="preserve">
+    <value>I agree with the directives</value>
+  </data>
   <data name="ApplicationTitle" xml:space="preserve">
     <value>Merge Server-Client Errors</value>
   </data>
@@ -150,6 +153,9 @@
   <data name="BeneficiaryNameCv" xml:space="preserve">
     <value>The name should begin with "Super"</value>
   </data>
+  <data name="BeneficiaryNameCv2" xml:space="preserve">
+    <value>The name should be greater than 6 characters</value>
+  </data>
   <data name="BeneficiaryNameLbl" xml:space="preserve">
     <value>Beneficiary name</value>
   </data>
@@ -171,11 +177,41 @@
   <data name="BtnSubmit" xml:space="preserve">
     <value>Submit</value>
   </data>
+  <data name="CanadianCitizen" xml:space="preserve">
+    <value>Canadian citizen</value>
+  </data>
   <data name="ChildrenHelp" xml:space="preserve">
     <value>Child benefit (Age 1-18) </value>
   </data>
+  <data name="ChooseMoreThan" xml:space="preserve">
+    <value>You can't choose more than 2 checkboxes</value>
+  </data>
+  <data name="ChooseOneCheckbox" xml:space="preserve">
+    <value>You must choose at least one checkbox</value>
+  </data>
+  <data name="ChooseOneRadioButton" xml:space="preserve">
+    <value>You must choose at least one radioButton</value>
+  </data>
+  <data name="CitizenStatus" xml:space="preserve">
+    <value>Citizen Status</value>
+  </data>
+  <data name="ContactEmail" xml:space="preserve">
+    <value>Contact me by email</value>
+  </data>
+  <data name="ContactInformation" xml:space="preserve">
+    <value>Contact Information</value>
+  </data>
+  <data name="ContactMessaging" xml:space="preserve">
+    <value>Contact me by text messaging</value>
+  </data>
+  <data name="ContactPhone" xml:space="preserve">
+    <value>Contact me by phone</value>
+  </data>
   <data name="CorrectAndResubmit" xml:space="preserve">
     <value>(Correct and resubmit)</value>
+  </data>
+  <data name="DefaultErrorMessage" xml:space="preserve">
+    <value>An error occured</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Error</value>
@@ -189,6 +225,18 @@
   <data name="Invalidity" xml:space="preserve">
     <value>Invalidity (Age 1-64)</value>
   </data>
+  <data name="MandatoryField" xml:space="preserve">
+    <value>This field is mandatory</value>
+  </data>
+  <data name="MoreInformation" xml:space="preserve">
+    <value>Please send me more information</value>
+  </data>
+  <data name="PermanentResident" xml:space="preserve">
+    <value>Permanent resident</value>
+  </data>
+  <data name="PrintPage" xml:space="preserve">
+    <value>Print this page</value>
+  </data>
   <data name="RequiredField" xml:space="preserve">
     <value>(Required field)</value>
   </data>
@@ -197,6 +245,9 @@
   </data>
   <data name="SelectAPrestation" xml:space="preserve">
     <value>Select a benefit</value>
+  </data>
+  <data name="Signature" xml:space="preserve">
+    <value>Signature</value>
   </data>
   <data name="Title" xml:space="preserve">
     <value>Demo Asp.Net Web Form</value>
@@ -214,6 +265,9 @@
     <value>Enter the type of benefit desired</value>
   </data>
   <data name="ValidationSummaryTitle" xml:space="preserve">
-    <value>This is user control DisplayErrors (It appears when JavaScript is disabled)</value>
+    <value>This is user control wbDisplayErrors (It appears when JavaScript is disabled)</value>
+  </data>
+  <data name="WorkPermit" xml:space="preserve">
+    <value>Work permit</value>
   </data>
 </root>
