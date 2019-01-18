@@ -1,5 +1,3 @@
-﻿////Common script for the leaf project
-
 ////Jquery-Wet-Js Example (Remove comments and run)
 //$(document).on("wb-ready.wb", pizza);
 
